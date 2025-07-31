@@ -1,0 +1,15 @@
+/Users/rafaelef01/Projects/CodingTracker/CodingTracker/CodingTracker/bin/Debug/net6.0/CodingTracker
+/Users/rafaelef01/Projects/CodingTracker/CodingTracker/CodingTracker/bin/Debug/net6.0/CodingTracker.deps.json
+/Users/rafaelef01/Projects/CodingTracker/CodingTracker/CodingTracker/bin/Debug/net6.0/CodingTracker.runtimeconfig.json
+/Users/rafaelef01/Projects/CodingTracker/CodingTracker/CodingTracker/bin/Debug/net6.0/CodingTracker.dll
+/Users/rafaelef01/Projects/CodingTracker/CodingTracker/CodingTracker/bin/Debug/net6.0/CodingTracker.pdb
+/Users/rafaelef01/Projects/CodingTracker/CodingTracker/CodingTracker/obj/Debug/net6.0/CodingTracker.csproj.AssemblyReference.cache
+/Users/rafaelef01/Projects/CodingTracker/CodingTracker/CodingTracker/obj/Debug/net6.0/CodingTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaelef01/Projects/CodingTracker/CodingTracker/CodingTracker/obj/Debug/net6.0/CodingTracker.AssemblyInfoInputs.cache
+/Users/rafaelef01/Projects/CodingTracker/CodingTracker/CodingTracker/obj/Debug/net6.0/CodingTracker.AssemblyInfo.cs
+/Users/rafaelef01/Projects/CodingTracker/CodingTracker/CodingTracker/obj/Debug/net6.0/CodingTracker.csproj.CoreCompileInputs.cache
+/Users/rafaelef01/Projects/CodingTracker/CodingTracker/CodingTracker/obj/Debug/net6.0/CodingTracker.dll
+/Users/rafaelef01/Projects/CodingTracker/CodingTracker/CodingTracker/obj/Debug/net6.0/refint/CodingTracker.dll
+/Users/rafaelef01/Projects/CodingTracker/CodingTracker/CodingTracker/obj/Debug/net6.0/CodingTracker.pdb
+/Users/rafaelef01/Projects/CodingTracker/CodingTracker/CodingTracker/obj/Debug/net6.0/CodingTracker.genruntimeconfig.cache
+/Users/rafaelef01/Projects/CodingTracker/CodingTracker/CodingTracker/obj/Debug/net6.0/ref/CodingTracker.dll
