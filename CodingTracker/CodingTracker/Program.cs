@@ -2,5 +2,3 @@
 Console.WriteLine("Hello, C# Academy! Another mod!");
 Console.WriteLine("Hello, C# Academy! Another mod!");
 Console.WriteLine("Hello, C# Academy! Another mod!");
-
-
