@@ -1,3 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, C# Academy! Another mod!");
+Console.WriteLine("Hello, C# Academy! Another mod!");
+Console.WriteLine("Hello, C# Academy! Another mod!");
+
 
